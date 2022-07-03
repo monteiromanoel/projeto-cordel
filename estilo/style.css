@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: 'Bandeiras';
-    src: url('font/KgChasingCars-38qp.ttf') format('truetype');
+    src: url('/font/KgChasingCars-38qp.ttf') format('truetype');
 } 
 
 @import url('https://fonts.googleapis.com/css2?family=Passion+One&family=Sriracha&display=swap');
