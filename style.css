@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: 'Bandeiras';
-    src: url('/font/KgChasingCars-38qp.ttf') format('truetype');
+    src: url("font/KgChasingCars-38qp.ttf") format('truetype');
 } 
 
 @import url('https://fonts.googleapis.com/css2?family=Passion+One&family=Sriracha&display=swap');
@@ -79,7 +79,7 @@ section > p {
 }
 
 #paralax1 {
-    background-image: url("/imagens/background001.jpg");
+    background-image: url("imagens/background001.jpg");
     background-repeat: no-repeat;
     background-position: right center;
     background-size: cover;
@@ -95,7 +95,7 @@ section > p {
 }
 
 #paralax2 {
-    background: lightgray url("/imagens/background002.jpg") right center no-repeat fixed;
+    background: lightgray url("imagens/background002.jpg") right center no-repeat fixed;
     background-size: cover;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.459);
 }
